@@ -1,7 +1,7 @@
 WARNING
 ===============
 
-> **Notice:** *"Structure API JS" is deprecated. This here is kept for historical purposes only. You should head to [the "Losant API JS" github project](https://github.com/losant/losant-api-js) instead.*
+> **Notice:** *"Structure API JS" is deprecated. This here is kept for historical purposes only. You should head to [the "Losant REST JS" github project](https://github.com/losant/losant-rest-js) instead.*
 
 ============
 
